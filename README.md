@@ -82,7 +82,7 @@ If you are on windows, you may also need to install pysoundfile: `conda install 
 An easy way to hit the ground running and a good jumping off point depending on your use case.
 
 ```sh
-git clone https://github.com/neonbjb/tortoise-tts.git
+git clone https://github.com/alekso56/tortoise-tts.git
 cd tortoise-tts
 
 docker build . -t tts
